@@ -1,0 +1,75 @@
+.wrapper{
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 5px;
+    width: 80%;
+    height: 50%;
+    text-align: left;
+    display: inline-block;
+}
+.form-group a{
+    color:#45a049 ;
+}
+.navbar-light .navbar-brand {
+    color: #fff;
+    font-size: 25px;
+    text-transform: uppercase;
+    font-weight: bold;
+    letter-spacing: 2px;
+  }
+  nav .navbar-nav li a{
+    color: #36CA44 !important;
+    }
+  .navbar-light .navbar-nav .active > .nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show > .nav-link {
+    color: brown;
+  }
+  
+  .navbar-light .navbar-nav .nav-link {
+    color: #fff;
+  }
+  
+  .navbar-toggler {
+    background: #fff;
+  }
+  
+  .navbar-nav {
+    text-align: center;
+  }
+  .navbar.navbar-dark.top-nav-collapse .navbar-nav .nav-item .nav-link {
+    color: red;
+  }
+  .nav-link {
+    padding: .2rem 1rem;
+    color: yellowgreen;
+    justify-content: center;
+  }
+  .navbar-brand{
+    color: brown;
+}
+  .nav-link.active,.nav-link:focus{
+    color: #fff;
+  }
+  
+  .navbar-toggler {
+    padding: 1px 5px;
+    font-size: 18px;
+    line-height: 0.3;
+  }
+  
+  .navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover {
+    color: #fff;
+  }
+  
+.parent{
+    text-align: center;
+    margin: 60px;
+}
+h2{
+    color: #45a049;
+}
+.form-group{
+    color: #45a049;
+}
+a{
+    color:#45a049 ;
+}
