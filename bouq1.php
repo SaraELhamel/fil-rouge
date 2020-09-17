@@ -56,7 +56,7 @@ include_once("get2.php");
         <span class="star">&nbsp;</span>
         <span class="star">&nbsp;</span>
     </div>
-    <div class="text-center"><button class="btn btn-success" onclick="myFunction()">upload</button>
+    <div class="text-center"><button class="btn btn-success" onclick="myFunction()">Download</button>
     </div>
     <br>
     <div class="comment">

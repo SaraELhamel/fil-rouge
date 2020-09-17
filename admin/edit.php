@@ -133,13 +133,9 @@ $conn->close();
 <div class="wrapper">
     <h3>edit form</h3>
         <form method="post" action="process.php">
-            <!-- <div class="form-group">
-        <label >id</label>
-    <input type="number" name="id" value="<?php echo $id; ?>">
-    </div> -->
     <div class="form-group">
     <label >name</label>
-    <input type="text" name="name" value="<?= $name; ?>">
+    <input type="text" name="name" >
     </div>
     <div class="form-group">
     <label >author</label>

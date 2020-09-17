@@ -31,11 +31,10 @@
   <li class="nav-item">
     <a class="nav-link" href="admin_login.php">admin_Login</a>
   </li>
-  <li class="nav-item">
-          <a class="nav-link" href="logout.php">Logout</a>
-        </li>
 </ul>
 </nav>
+<br>
+<br>
   <div class="wrapper">
   	<h2>Register</h2>
   <form method="post" action="register.php">

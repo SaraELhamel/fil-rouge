@@ -22,7 +22,7 @@ if(isset($_POST['login'])){
         header("location:home.php");
     }
     else if($result->num_rows==1 && $_SESSION['role']=="admin"){
-        header("location:admin/book.php");
+        header("location:admin/dashboard.php");
     }
 }
 

@@ -135,19 +135,19 @@ $conn->close();
     <form method="post" action="insert.php">
 <div class="form-group">
 <label >title</label>
-<input type="text" name="title" value="<?=$title;?>">
+<input type="text" name="title" >
 </div>
 <div class="form-group">
 <label >publisher</label>
-<input type="text" name="publisher"value="<?=$publisher;?>" >
+<input type="text" name="publisher" >
 </div>
 <div class="form-group" > 
 <label>date</label>
-<input type="date" name="date" value="<?=$date;?>" >
+<input type="date" name="date"  >
 </div>
 <div class="form-group" >
 <label>content</label>
-<textarea name="content" cols="30" rows="10" value="<?=$content;?>"></textarea>
+<textarea name="content" cols="30" rows="10" ></textarea>
 </div>
 <div class="form-group">
 <input type="submit"  class="btn btn-primary" name="add">
